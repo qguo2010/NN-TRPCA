@@ -1,4 +1,4 @@
-# Nonlocal TRPCA
+# Nonconvex & Nonlocal TRPCA
 
 This is a demo for the following paper
 
