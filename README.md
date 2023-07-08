@@ -11,4 +11,4 @@ X. Geng, Q. Guo, S. Hui, and C. Zhang, [Tensor robust PCA with nonconvex and non
 
 
 # Flowchart
-![architecture](./flowchart.png)
+![architecture](./flowchart2.png)
