@@ -7,7 +7,7 @@ X. Geng, Q. Guo, and C. Zhang, [Color image denoising via tensor robust PCA with
 
 Full Version
 
-X. Geng, Q. Guo, S. Hui, and C. Zhang, [Tensor robust PCA with nonconvex and nonlocal regularization](https://arxiv.org/abs/2211.02404), arXiv:2211.02404, 2022.
+X. Geng, Q. Guo, S. Hui, M. Yang, and C. Zhang, [Tensor robust PCA with nonconvex and nonlocal regularization](https://arxiv.org/abs/2211.02404), arXiv:2211.02404, 2022.
 
 
 # Flowchart
